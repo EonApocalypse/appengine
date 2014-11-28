@@ -1,2 +1,2 @@
-appengine
+EPOCH Services for Google AppEngine
 =========
